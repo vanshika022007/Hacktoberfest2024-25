@@ -1,11 +1,11 @@
-# 🎃 Welcome to **HacktoberFest Contribution 2024**! 🎃  
+# 🎃 Welcome to **HacktoberFest Contribution **! 🎃  
 [![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2024-yellow?style=for-the-badge)](https://hacktoberfest.com)  
-[![Star this Repo](https://img.shields.io/github/stars/Evgenii-Bazhaov/Hacktoberfest2024?style=social)](https://github.com/Evgenii-Bazhaov/Hacktoberfest2024)
+[![Star this Repo](https://img.shields.io/github/stars/Evgenii-Bazhaov/Hacktoberfest2024-25?style=social)](https://github.com/Evgenii-Bazhaov/Hacktoberfest2024-25)
 
-Hey there, awesome people! 👋 Welcome to **HacktoberFest 2024**! 🚀 This is a fun and beginner-friendly repository designed for you to make your very first Pull Request (PR) and join the world of open source! 🌍✨ 
+Hey there, awesome people! 👋 Welcome to **HacktoberFest **! 🚀 This is a fun and beginner-friendly repository designed for you to make your very first Pull Request (PR) and join the world of open source! 🌍✨ 
 <div align = "left">
 
-## Submit your PR on this new repo [Hacktoberfest](https://github.com/Evgenii-Bazhaov/Hacktoberfest2024). We are merging all PRs there.
+## Submit your PR on this new repo [Hacktoberfest](https://github.com/Evgenii-Bazhaov/Hacktoberfest2024-25). We are merging all PRs there.
 
 <br>
 
@@ -23,13 +23,13 @@ Hey there, awesome people! 👋 Welcome to **HacktoberFest 2024**! 🚀 This is 
      </thead>
     <tbody>
          <tr>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/Evgenii-Bazhaov/Hacktoberfest2024?style=flat&logo=github"/></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/Evgenii-Bazhaov/Hacktoberfest2024?style=flat&logo=github"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/Evgenii-Bazhaov/Hacktoberfest2024?style=flat&logo=github"/></td>
-            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/Evgenii-Bazhaov/Hacktoberfest2024?style=flat&logo=github"/></td>
-           <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/Evgenii-Bazhaov/Hacktoberfest2024?style=flat&color=critical&logo=github"/></td>
-           <td><img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Evgenii-Bazhaov/Hacktoberfest2024?style=flat&color=critical&logo=github"></td>
-           <td><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Evgenii-Bazhaov/Hacktoberfest2024?color=2b9348"></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/Evgenii-Bazhaov/Hacktoberfest2024-25?style=flat&logo=github"/></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/Evgenii-Bazhaov/Hacktoberfest2024-25?style=flat&logo=github"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/Evgenii-Bazhaov/Hacktoberfest2024-25?style=flat&logo=github"/></td>
+            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/Evgenii-Bazhaov/Hacktoberfest2024-25?style=flat&logo=github"/></td>
+           <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/Evgenii-Bazhaov/Hacktoberfest2024-25?style=flat&color=critical&logo=github"/></td>
+           <td><img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Evgenii-Bazhaov/Hacktoberfest2024-25?style=flat&color=critical&logo=github"></td>
+           <td><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Evgenii-Bazhaov/Hacktoberfest2024-25?color=2b9348"></td>
         </tr>
     </tbody>
 </table>
@@ -63,13 +63,13 @@ Hey there, awesome people! 👋 Welcome to **HacktoberFest 2024**! 🚀 This is 
 - Clone it on your local machine
 
 ```terminal
-git clone https://github.com/Evgenii-Bazhaov/Hacktoberfest2024.git
+git clone https://github.com/Evgenii-Bazhaov/Hacktoberfest2024-25.git
 ```
 
 - Navigate to the project directory.
 
 ```terminal
-cd Hacktoberfest2024
+cd Hacktoberfest2024-25
 ```
 
 - Create a new branch
@@ -105,7 +105,7 @@ git push origin my-new-branch
 An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PRs may be merged while you're working on your branch/fork.   
 
 ```terminal
-git remote add upstream https://github.com/Evgenii-Bazhaov/Hacktoberfest2024
+git remote add upstream https://github.com/Evgenii-Bazhaov/Hacktoberfest2024-25
 ```
 
 You can verify that the new remote has been added by typing:
@@ -153,12 +153,12 @@ After 4 successfully merged PRs, you’ll be eligible for a Hacktoberfest T-shir
   - Because we only know JavaScript and suck at servers. We use [now](https://zeit.co/now) instead.
 - Should I come closer to the text saying 'Don't come closer' on the left side of the home tab?
   - Nope.
-- How many pull requests (PRs) must be made if I want to get an awesome T-shirt from Hacktoberfest 2024?
+- How many pull requests (PRs) must be made if I want to get an awesome T-shirt from Hacktoberfest 2024-25?
 
-- How do I track my progress to get an awesome shirt from Hacktoberfest 2024?
+- How do I track my progress to get an awesome shirt from Hacktoberfest 2024-25?
   - [Go to:](https://hacktoberfest.digitalocean.com/profile/). (Check out your own stats at the top right)
-- What is the duration of Hacktoberfest 2024?
-  - It is from 1st October to 31st October 2024.
+- What is the duration of Hacktoberfest 2024-25?
+  - It is from 1st October to 31st October 2024-25.
 - What is the event for?
   - For open source community engagement and to learn how to contribute to open source.
 
@@ -173,10 +173,10 @@ After 4 successfully merged PRs, you’ll be eligible for a Hacktoberfest T-shir
 - A heartfelt thank you to everyone who contributed to this project. Your support and dedication are greatly appreciated! 🙏
 
 
-<a href="https://github.com/Evgenii-Bazhaov/Hacktoberfest2024/graphs/contributors" target="_blank" rel="noopener noreferrer" title="View Contributors">
+<a href="https://github.com/Evgenii-Bazhaov/Hacktoberfest2024-25/graphs/contributors" target="_blank" rel="noopener noreferrer" title="View Contributors">
   <img 
-    src="https://contrib.rocks/image?repo=Evgenii-Bazhaov/Hacktoberfest2024" 
-    alt="Contributors to Hacktoberfest 2024 repository" 
+    src="https://contrib.rocks/image?repo=Evgenii-Bazhaov/Hacktoberfest2024-25" 
+    alt="Contributors to Hacktoberfest 2024-25 repository" 
     style="max-width: 100%; height: auto;" 
   />
 </a>
